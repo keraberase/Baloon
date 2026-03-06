@@ -413,6 +413,31 @@ p {
   color: var(--gold);
 }
 
+/* BOOKING MAP */
+.map-card {
+  background: var(--dark);
+  border-radius: 6px;
+  padding: 30px 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.map-icon {
+  font-size: 32px;
+}
+
+.map-card h4 {
+  color: #fff;
+  font-size: 18px;
+  margin: 10px 0 5px;
+}
+
+.map-card p {
+  color: var(--light-text);
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+
 /* ===== AWARD CARDS ===== */
 .award-card {
   flex: 1;
